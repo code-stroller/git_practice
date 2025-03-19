@@ -1,5 +1,9 @@
 team: Leopards
+<<<<<<< HEAD
 coach: Nicholas
+=======
+coach: Melissa
+>>>>>>> conflict-2
 manager: Nora
 
 members:
